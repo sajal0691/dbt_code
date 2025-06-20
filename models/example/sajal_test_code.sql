@@ -1,1 +1,1 @@
-create table test_tab id number , name varchar(20)
+create table test_tab id as number , name varchar(20)
