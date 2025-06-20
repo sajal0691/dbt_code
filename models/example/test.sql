@@ -1,0 +1,1 @@
+create table emp as loc varchar , id number
