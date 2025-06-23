@@ -1,0 +1,1 @@
+select 1 as id form tab3_today
