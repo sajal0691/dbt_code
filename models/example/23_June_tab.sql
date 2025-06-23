@@ -1,0 +1,1 @@
+select 1 as id from 23_Jun_tab
