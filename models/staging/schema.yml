@@ -1,0 +1,8 @@
+    version: 2
+sources:
+    - name: db_table
+      database: "{{('DBT_LEARNING')}}"
+      schema: DBT_LEARNING_SCHEMA
+      tables:
+        - name: customer
+        

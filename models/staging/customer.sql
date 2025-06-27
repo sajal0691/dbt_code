@@ -1,0 +1,1 @@
+select id , name , location from {{source('db_table','customer')}}
