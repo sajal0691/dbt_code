@@ -4,5 +4,5 @@ sources:
       database: "{{('DBT_LEARNING')}}"
       schema: DBT_LEARNING_SCHEMA
       tables:
-        - name: customer
+        - name: customer_sflk
         
