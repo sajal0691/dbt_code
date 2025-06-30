@@ -5,3 +5,4 @@ sources:
       schema: DBT_LEARNING_SCHEMA
       tables:
         - name: customer_sflk
+        - name : orders_sflk
